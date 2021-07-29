@@ -1,0 +1,7 @@
+07:14:39.119 [main] INFO  endtoend.ValidateNavigationBar - Navigated to Home page
+07:14:49.458 [main] INFO  endtoend.ValidateTitle - Driver is initialized
+07:14:53.284 [main] INFO  endtoend.ValidateTitle - Navigated to Home page
+07:37:19.544 [main] INFO  endtoend.HomePage - Driver is initialized
+07:38:18.531 [main] INFO  endtoend.ValidateNavigationBar - Driver is initialized
+07:38:28.446 [main] INFO  endtoend.ValidateNavigationBar - Navigated to Home page
+07:38:32.807 [main] INFO  endtoend.ValidateTitle - Driver is initialized

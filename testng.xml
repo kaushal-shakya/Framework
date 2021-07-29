@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+    <listeners>
+        <listener class-name="endtoend.Listeners"/>
+    </listeners>
+    <test name="Test1">
+        <classes>
+            <class name="endtoend.HomePage"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="endtoend.ValidateNavigationBar"/>
+        </classes>
+    </test>
+    <test name="Test3">
+        <classes>
+            <class name="endtoend.ValidateTitle"/>
+        </classes>
+    </test>
+</suite>
