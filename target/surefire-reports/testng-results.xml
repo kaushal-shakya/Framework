@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-07-29T07:36:50 IST" name="Suite" finished-at="2021-07-29T07:38:45 IST" duration-ms="114858">
+  <suite started-at="2021-07-29T07:59:44 IST" name="Suite" finished-at="2021-07-29T08:00:07 IST" duration-ms="23232">
     <groups>
     </groups>
-    <test started-at="2021-07-29T07:36:50 IST" name="Test1" finished-at="2021-07-29T07:38:06 IST" duration-ms="76219">
+    <test started-at="2021-07-29T07:59:44 IST" name="Test1" finished-at="2021-07-29T07:59:56 IST" duration-ms="12871">
       <class name="endtoend.HomePage">
-        <test-method is-config="true" signature="initialize()[pri:0, instance:endtoend.HomePage@5ebd56e9]" started-at="2021-07-29T07:36:50 IST" name="initialize" finished-at="2021-07-29T07:37:19 IST" duration-ms="29451" status="PASS">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:endtoend.HomePage@5ebd56e9]" started-at="2021-07-29T07:59:44 IST" name="initialize" finished-at="2021-07-29T07:59:48 IST" duration-ms="4403" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:endtoend.HomePage@5ebd56e9]" started-at="2021-07-29T07:37:19 IST" name="basePageNavigation" data-provider="dataGettr" finished-at="2021-07-29T07:37:43 IST" duration-ms="23850" status="PASS">
+        <test-method signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:endtoend.HomePage@5ebd56e9]" started-at="2021-07-29T07:59:48 IST" name="basePageNavigation" data-provider="dataGettr" finished-at="2021-07-29T07:59:54 IST" duration-ms="6312" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:endtoend.HomePage@5ebd56e9]" started-at="2021-07-29T07:37:43 IST" name="basePageNavigation" data-provider="dataGettr" finished-at="2021-07-29T07:38:05 IST" duration-ms="21998" status="PASS">
+        <test-method signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:endtoend.HomePage@5ebd56e9]" started-at="2021-07-29T07:59:54 IST" name="basePageNavigation" data-provider="dataGettr" finished-at="2021-07-29T07:59:56 IST" duration-ms="2069" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -43,35 +43,35 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:endtoend.HomePage@5ebd56e9]" started-at="2021-07-29T07:38:05 IST" name="closeBrowser" finished-at="2021-07-29T07:38:06 IST" duration-ms="851" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:endtoend.HomePage@5ebd56e9]" started-at="2021-07-29T07:59:56 IST" name="closeBrowser" finished-at="2021-07-29T07:59:56 IST" duration-ms="46" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- endtoend.HomePage -->
     </test> <!-- Test1 -->
-    <test started-at="2021-07-29T07:38:11 IST" name="Test2" finished-at="2021-07-29T07:38:28 IST" duration-ms="17082">
+    <test started-at="2021-07-29T07:59:57 IST" name="Test2" finished-at="2021-07-29T08:00:02 IST" duration-ms="4676">
       <class name="endtoend.ValidateNavigationBar">
-        <test-method is-config="true" signature="initialize()[pri:0, instance:endtoend.ValidateNavigationBar@3a0807b7]" started-at="2021-07-29T07:38:11 IST" name="initialize" finished-at="2021-07-29T07:38:28 IST" duration-ms="16570" status="PASS">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:endtoend.ValidateNavigationBar@3a0807b7]" started-at="2021-07-29T07:59:57 IST" name="initialize" finished-at="2021-07-29T08:00:01 IST" duration-ms="4400" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method signature="validateNavigationBar()[pri:0, instance:endtoend.ValidateNavigationBar@3a0807b7]" started-at="2021-07-29T07:38:28 IST" name="validateNavigationBar" finished-at="2021-07-29T07:38:28 IST" duration-ms="229" status="PASS">
+        <test-method signature="validateNavigationBar()[pri:0, instance:endtoend.ValidateNavigationBar@3a0807b7]" started-at="2021-07-29T08:00:01 IST" name="validateNavigationBar" finished-at="2021-07-29T08:00:02 IST" duration-ms="168" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateNavigationBar -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:endtoend.ValidateNavigationBar@3a0807b7]" started-at="2021-07-29T07:38:28 IST" name="closeBrowser" finished-at="2021-07-29T07:38:28 IST" duration-ms="278" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:endtoend.ValidateNavigationBar@3a0807b7]" started-at="2021-07-29T08:00:02 IST" name="closeBrowser" finished-at="2021-07-29T08:00:02 IST" duration-ms="106" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- endtoend.ValidateNavigationBar -->
     </test> <!-- Test2 -->
-    <test started-at="2021-07-29T07:38:29 IST" name="Test3" finished-at="2021-07-29T07:38:45 IST" duration-ms="16009">
+    <test started-at="2021-07-29T08:00:02 IST" name="Test3" finished-at="2021-07-29T08:00:07 IST" duration-ms="5123">
       <class name="endtoend.ValidateTitle">
-        <test-method is-config="true" signature="initialize()[pri:0, instance:endtoend.ValidateTitle@30b34287]" started-at="2021-07-29T07:38:29 IST" name="initialize" finished-at="2021-07-29T07:38:43 IST" duration-ms="14305" status="PASS">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:endtoend.ValidateTitle@30b34287]" started-at="2021-07-29T08:00:02 IST" name="initialize" finished-at="2021-07-29T08:00:06 IST" duration-ms="4614" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method signature="validateTitle()[pri:0, instance:endtoend.ValidateTitle@30b34287]" started-at="2021-07-29T07:38:43 IST" name="validateTitle" finished-at="2021-07-29T07:38:43 IST" duration-ms="61" status="FAIL">
+        <test-method signature="validateTitle()[pri:0, instance:endtoend.ValidateTitle@30b34287]" started-at="2021-07-29T08:00:06 IST" name="validateTitle" finished-at="2021-07-29T08:00:06 IST" duration-ms="61" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [FEATURED COURSES123] but found [FEATURED COURSES]]]>
@@ -123,7 +123,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateTitle -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:endtoend.ValidateTitle@30b34287]" started-at="2021-07-29T07:38:44 IST" name="closeBrowser" finished-at="2021-07-29T07:38:45 IST" duration-ms="392" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:endtoend.ValidateTitle@30b34287]" started-at="2021-07-29T08:00:07 IST" name="closeBrowser" finished-at="2021-07-29T08:00:07 IST" duration-ms="84" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
